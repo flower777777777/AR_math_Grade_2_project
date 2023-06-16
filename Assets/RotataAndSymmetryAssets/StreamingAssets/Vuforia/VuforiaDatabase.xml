@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="experience2" size="1.000000 0.971751" />
+    <ImageTarget name="experience1" size="1.000000 0.945652" />
+    <ImageTarget name="frog" size="1.000000 2.288557" />
+    <ImageTarget name="comb" size="1.000000 1.702703" />
+    <ImageTarget name="redStar" size="1.000000 1.144279" />
+    <ImageTarget name="hongkong" size="1.000000 0.985816" />
+    <ImageTarget name="dragonfly" size="1.000000 0.817757" />
+    <ImageTarget name="truck" size="1.000000 1.045283" />
+    <ImageTarget name="smile" size="1.000000 1.813121" />
+    <ImageTarget name="gyroscope1" size="1.000000 1.004082" />
+    <ImageTarget name="house" size="1.000000 1.000000" />
+    <ImageTarget name="clock_experience" size="1.000000 1.009901" />
+    <ImageTarget name="jigsaw5" size="1.000000 0.927083" />
+    <ImageTarget name="jigsaw4" size="1.000000 0.849315" />
+    <ImageTarget name="jigsaw3" size="1.000000 0.845890" />
+    <ImageTarget name="jigsaw2" size="1.000000 1.077519" />
+    <ImageTarget name="jigsaw1" size="1.000000 0.843003" />
+    <ImageTarget name="turntable" size="1.000000 0.995984" />
+    <ImageTarget name="clock" size="1.000000 0.993976" />
+  </Tracking>
+</QCARConfig>
